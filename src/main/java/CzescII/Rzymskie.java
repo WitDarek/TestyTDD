@@ -86,8 +86,9 @@ public class Rzymskie {
         long liczba=0;
         if(znaki.length ()<2) {
             liczba = Convert (znaki);
+        }else {
+            liczba = Sum2 (znaki);
         }
-        liczba=Sum2(znaki);
         int i=0;
         long[] tab=new long[31];
         long suma=0;
@@ -104,14 +105,15 @@ public class Rzymskie {
 
     }
 
-
+    //Metoda nie działa prawidłowo - do dokończenia
     public static String CeonvertHex(String znaki) {
         long liczba =0;
         String wynik=null;
         if(znaki.length ()<2) {
             liczba = Convert (znaki);
+        }else {
+            liczba = Sum2 (znaki);
         }
-        liczba=Sum2(znaki);
         int i=0;
         long[] tab=new long[31];
         String[] tab1=new String[31];
