@@ -1,12 +1,10 @@
-package Dodatkowe;
+package CzescI.Dodatkowe;
 
 import org.junit.jupiter.api.*;
 
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class UserControllerTest {
 

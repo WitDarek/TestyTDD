@@ -1,3 +1,5 @@
+package CzescI;
+
 public class HelloClass {
     public String getMessage;
 

@@ -1,3 +1,5 @@
+package CzescI;
+
 import java.util.Scanner;
 
 public class MathClass {

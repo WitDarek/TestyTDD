@@ -1,3 +1,5 @@
+package CzescI;
+
 public class FizzBuzz {
     public String FizzBuzzMetod(int i) {
 

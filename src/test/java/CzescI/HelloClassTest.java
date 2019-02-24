@@ -1,3 +1,6 @@
+package CzescI;
+
+import CzescI.HelloClass;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
